@@ -17,7 +17,7 @@ public class Main {
         
         
         Zad2 zad2=new Zad2();
-        zad2.fib(10);
+        zad2.zadanie(10);
         
         
         Zadanie3 zadanie =new Zadanie3();
